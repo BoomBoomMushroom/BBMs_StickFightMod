@@ -32,7 +32,7 @@ Additions
 - When atleast one snake is in the game it will give you amost every achievements (Not Xiao Xiao)
 - Removed Chat Filter
 - Glue now takes more force to break out and should last longer
-- Most wepons have the shootAllBullets property and will continuously shoot until out of ammo
+- Most wepons have the shootAllBullets property and will continuously shoot until out of ammo - Because of this boss will never change states
 - Recoil is now at 50 (think it was at 10 before?)
 - Increased Ammo<br/>
 Bugs
