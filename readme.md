@@ -11,7 +11,7 @@ How to download - Will update if it changes:
 - Then find the Managed folder and open it and find CSharpAssembly.dll and delete it
 - Name the modded or unmodded dll file to 'CSharpAssembly.dll' and put it in there in it's place
 - Now restart Stick Fight the Game
-- Done, te mod should now be installed
+- Done, the mod should now be installed
 
 Unmodded Version (Incase you want to Unmod the game - You should when starting to play with randos)
 https://github.com/BoomBoomMushroom/BBMs_StickFightMod/blob/main/versions/UnModded.dll
