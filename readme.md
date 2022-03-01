@@ -9,7 +9,7 @@ How to download - Will update if it changes:
 - Find where it says 'Browse Local File' and click it
 - When inside the folder look for the StickFight_Data File or something like that
 - Then find the Managed folder and open it and find CSharpAssembly.dll and delete it
-- Name the modded or unmodded dll file to 'CSharpAssembly.dll' and put it in there in it's place
+- Name the modded or unmodded dll file to 'Assembly-CSharp.dll' and put it in there in it's place
 - Now restart Stick Fight the Game
 - Done, the mod should now be installed
 
