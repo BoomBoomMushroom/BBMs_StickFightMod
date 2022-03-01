@@ -25,7 +25,7 @@ https://github.com/BoomBoomMushroom/BBMs_StickFightMod/blob/main/versions/Versio
 - Changelog Unavaiable
 
 Version 1.0.3
-https://github.com/BoomBoomMushroom/BBMs_StickFightMod/blob/main/versions/Version_1.0.3.dll
+https://github.com/BoomBoomMushroom/BBMs_StickFightMod/blob/main/versions/Version_1.0.3.dll<br/>
 Additions
 - Snakes are so fast that they can start flying
 - Regen Option now slowly kills you
@@ -34,7 +34,7 @@ Additions
 - Glue now takes more force to break out and should last longer
 - Most wepons have the shootAllBullets property and will continuously shoot until out of ammo
 - Recoil is now at 50 (think it was at 10 before?)
-- Increased Ammo
+- Increased Ammo<br/>
 Bugs
 - All guns have the fullAuto property but dosn't full auto (Now Fixing)
 - Lava damage bounce should be 5x but dosn't seem to be working (Now Fixing)
