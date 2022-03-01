@@ -1,6 +1,8 @@
 Boom Boom Mushroom's Chaos Mod for Stick Fight the Game
 I will try to maintain this mod as much as possible and will leave a disclaimer if it becomes depricated or unusable
 
+How to download:
+
 Unmodded Version (Incase you want to Unmod the game - You should when starting to play with randos)
 https://github.com/BoomBoomMushroom/BBMs_StickFightMod/blob/main/versions/UnModded.dll
 
