@@ -45,7 +45,7 @@ Bugs
 Version 1.0.4 (Coming Soon)
 https://github.com/BoomBoomMushroom/BBMs_StickFightMod/blob/main/versions/Version_1.0.4.dll<br/>
 Additions
-- No Recoil
+- No Recoil<br/>
 Bugs
 - All guns have the fullAuto property but dosn't full auto (Now Fixing)
 - Lava damage bounce should be 5x but dosn't seem to be working (Now Fixing)
