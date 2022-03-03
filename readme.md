@@ -14,7 +14,7 @@ How to download - Will update if it changes:
 - Now restart Stick Fight the Game
 - Done, the mod should now be installed
 
-Possible pathway for Stickf Fight is C:\Program Files (x86)\Steam\steamapps\common\StickFightTheGame\StickFight_Data\Managed
+Possible pathway for Stick Fight is C:\Program Files (x86)\Steam\steamapps\common\StickFightTheGame\StickFight_Data\Managed
 
 Unmodded Version (Incase you want to Unmod the game - You should when starting to play with randos)
 https://github.com/BoomBoomMushroom/BBMs_StickFightMod/blob/main/versions/UnModded.dll
