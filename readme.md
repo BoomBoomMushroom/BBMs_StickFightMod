@@ -2,6 +2,7 @@ Boom Boom Mushroom's Chaos Mod for Stick Fight the Game<br/>
 I will try to maintain this mod as much as possible and will leave a disclaimer if it becomes depricated or unusable<br/>
 If you have any suggestions or find any bugs please create an issue and report the bug or give your suggestion<br/>
 
+How to mod the game yourself is on my YT Channel - https://youtu.be/y9dEt58vmUI<br/>
 How to download - Will update if it changes:
 - First download the version you want or the UnModded.dll
 - Now go to Steam and find Stick Fight the Game
@@ -34,9 +35,18 @@ Additions
 - Glue now takes more force to break out and should last longer
 - Most wepons have the shootAllBullets property and will continuously shoot until out of ammo - Because of this boss will never change states
 - Recoil is now at 50 (think it was at 10 before?)
+- Players move much faster when holding certain weapons
 - Increased Ammo<br/>
 Bugs
 - All guns have the fullAuto property but dosn't full auto (Now Fixing)
 - Lava damage bounce should be 5x but dosn't seem to be working (Now Fixing)
 - Snakes should have world wrap but dosn't seem to work (Now Fixing)
 
+Version 1.0.4 (Coming Soon)
+https://github.com/BoomBoomMushroom/BBMs_StickFightMod/blob/main/versions/Version_1.0.4.dll<br/>
+Additions
+- No Recoil
+Bugs
+- All guns have the fullAuto property but dosn't full auto (Now Fixing)
+- Lava damage bounce should be 5x but dosn't seem to be working (Now Fixing)
+- Snakes should have world wrap but dosn't seem to work (Now Fixing)
