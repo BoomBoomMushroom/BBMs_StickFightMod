@@ -38,8 +38,7 @@ Additions
 - Most wepons have the shootAllBullets property and will continuously shoot until out of ammo - Because of this boss will never change states
 - Recoil is now at 50 (think it was at 10 before?)
 - Players move much faster when holding certain weapons
-- Increased Ammo<br/>
-Bugs
+- Increased Ammo
 - All guns have the fullAuto property but dosn't full auto (Now Fixing)
 - Lava damage bounce should be 5x but dosn't seem to be working (Now Fixing)
 - Snakes should have world wrap but dosn't seem to work (Now Fixing)
@@ -47,8 +46,7 @@ Bugs
 Version 1.0.4 (Coming Soon)
 https://github.com/BoomBoomMushroom/BBMs_StickFightMod/blob/main/versions/Version_1.0.4.dll<br/>
 Additions
-- No Recoil<br/>
-Bugs
+- No Recoil
 - All guns have the fullAuto property but dosn't full auto (Now Fixing)
 - Lava damage bounce should be 5x but dosn't seem to be working (Now Fixing)
 - Snakes should have world wrap but dosn't seem to work (Now Fixing)
@@ -58,7 +56,6 @@ https://github.com/BoomBoomMushroom/BBMs_StickFightMod/blob/main/versions/Versio
 Additions
 - Fixed the no fullAuto bug
 - Shield is now 360 but still decays
-- Random Weapon everytime you pikc one up, including boss weapons and unobtainable weapons<br/>
-Bugs
+- Random Weapon everytime you pikc one up, including boss weapons and unobtainable weapons
 - Lava damage bounce should be 5x but dosn't seem to be working (Now Fixing)
 - Snakes should have world wrap but dosn't seem to work (Now Fixing)
