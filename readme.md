@@ -52,3 +52,13 @@ Bugs
 - All guns have the fullAuto property but dosn't full auto (Now Fixing)
 - Lava damage bounce should be 5x but dosn't seem to be working (Now Fixing)
 - Snakes should have world wrap but dosn't seem to work (Now Fixing)
+
+Version 1.0.4 (Coming Soon)
+https://github.com/BoomBoomMushroom/BBMs_StickFightMod/blob/main/versions/Version_1.0.4.dll<br/>
+Additions
+- Fixed the no fullAuto bug
+- Shield is now 360 but still decays
+- Random Weapon everytime you pikc one up, including boss weapons and unobtainable weapons<br/>
+Bugs
+- Lava damage bounce should be 5x but dosn't seem to be working (Now Fixing)
+- Snakes should have world wrap but dosn't seem to work (Now Fixing)
