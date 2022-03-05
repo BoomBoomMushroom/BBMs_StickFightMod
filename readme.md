@@ -43,7 +43,7 @@ Additions
 - Lava damage bounce should be 5x but dosn't seem to be working (Now Fixing)
 - Snakes should have world wrap but dosn't seem to work (Now Fixing)
 
-Version 1.0.4 (Coming Soon)
+Version 1.0.4
 https://github.com/BoomBoomMushroom/BBMs_StickFightMod/blob/main/versions/Version_1.0.4.dll<br/>
 Additions
 - No Recoil
@@ -51,8 +51,8 @@ Additions
 - Lava damage bounce should be 5x but dosn't seem to be working (Now Fixing)
 - Snakes should have world wrap but dosn't seem to work (Now Fixing)
 
-Version 1.0.4 (Coming Soon)
-https://github.com/BoomBoomMushroom/BBMs_StickFightMod/blob/main/versions/Version_1.0.4.dll<br/>
+Version 1.0.5
+https://github.com/BoomBoomMushroom/BBMs_StickFightMod/blob/main/versions/Version_1.0.5.dll<br/>
 Additions
 - Fixed the no fullAuto bug
 - Shield is now 360 but still decays
