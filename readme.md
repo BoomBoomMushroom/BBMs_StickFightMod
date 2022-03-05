@@ -57,5 +57,6 @@ Additions
 - Fixed the no fullAuto bug
 - Shield is now 360 but still decays
 - Random Weapon everytime you pick one up, including boss weapons and unobtainable weapons
+- Removed Disarming
 - Lava damage bounce should be 5x but dosn't seem to be working (Now Fixing)
 - Snakes should have world wrap but dosn't seem to work (Now Fixing)
