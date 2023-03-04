@@ -2,6 +2,10 @@ Boom Boom Mushroom's Chaos Mod for Stick Fight the Game<br/>
 I will try to maintain this mod as much as possible and will leave a disclaimer if it becomes depricated or unusable<br/>
 If you have any suggestions or find any bugs please create an issue and report the bug or give your suggestion<br/>
 
+</br>
+In the download_data folder there are files that the mod may need to download, like custom sound effects.</br>
+</br>
+
 How to mod the game yourself is on my YT Channel - https://youtu.be/y9dEt58vmUI<br/>
 How to download - Will update if it changes:
 - First download the version you want or the UnModded.dll
